@@ -1,0 +1,12 @@
+.container{
+    display: 'flex';
+    gap: '20px';
+    align-items: 'center';
+  }
+.icon{
+    transition: 'transform 0.3s ease, color 0.3s ease';
+    color: 'inherit';
+}
+.iconHover{
+    transform: 'scale(1.2)'
+}

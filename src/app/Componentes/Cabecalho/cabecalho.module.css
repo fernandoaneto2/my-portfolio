@@ -1,0 +1,16 @@
+.main{
+    width: 100%;
+    height: 50px;
+    background-color: black;
+    position: fixed;
+    opacity: 50%;
+
+}
+.nomeTopo{
+    margin: 0;
+}
+.links{
+    text-decoration: none;
+    display: flex;
+    gap: 25px;
+}
